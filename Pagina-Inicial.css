@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: sans-serif;
-    background: #111e6c url(/imagens/backgrround\ inicio.png) no-repeat;
+    background: #111e6c url(./imagens/backgrround.jpg) no-repeat;
     background-position-x: center;
     background-size: 1560px;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 input {
-    background-image: url(./imagens/gkamilly\ design.png);
+    background-image: url(./imagens/gkamillydesign.png);
     background-size: 450px;
     background-color: transparent; /* make the button transparent */
     background-repeat: no-repeat;  /* make the background image appear only once */

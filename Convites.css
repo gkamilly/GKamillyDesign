@@ -13,17 +13,17 @@ body {
 }
 
 input {
-    background-image: url(./imagens/gkamilly\ design.png);
+    background-image: url(./imagens/gkamillydesign.png);
     background-size: 450px;
-    background-color: transparent; /* make the button transparent */
-    background-repeat: no-repeat;  /* make the background image appear only once */
-    background-position: center;  /* equivalent to 'top left' */
-    border: none;           /* assuming we don't want any borders */
-    cursor: pointer;        /* make the cursor like hovering over an <a> element */
+    background-color: transparent; 
+    background-repeat: no-repeat; 
+    background-position: center;  
+    border: none;         
+    cursor: pointer;   
     height: 150px;
     width: 100%;
-    padding: 15px;     /* make text start to the right of the image */
-    vertical-align: middle; /* align the text vertically centered */
+    padding: 15px;    
+    vertical-align: middle; 
 }
 
 h1 {
