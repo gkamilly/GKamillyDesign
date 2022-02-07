@@ -2,7 +2,11 @@
 body {
     margin: 0;
     font-family: sans-serif;
+<<<<<<< HEAD
     background: #111e6c url(./imagens/backgrround.jpg) no-repeat;
+=======
+    background: #111e6c url(/imagens/backgrround.png) no-repeat;
+>>>>>>> 89e7fb09a5ad251b4113ed782f5c45575fe5e93e
     background-position-x: center;
     background-size: 1560px;
 }
@@ -16,7 +20,11 @@ body {
 }
 
 input {
+<<<<<<< HEAD
     background-image: url(./imagens/gkamillydesign.png);
+=======
+    background-image: url(./imagens/gkamilly-design.png);
+>>>>>>> 89e7fb09a5ad251b4113ed782f5c45575fe5e93e
     background-size: 450px;
     background-color: transparent; /* make the button transparent */
     background-repeat: no-repeat;  /* make the background image appear only once */
