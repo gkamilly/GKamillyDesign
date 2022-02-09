@@ -6,14 +6,14 @@ body {
     background-position-x: center;
     background-size: 1560px;
 }
-
+/*
 @media only screen and (max-width: 1100px){
     body {
     background: #111e6c url(./imagens/backgrround.jpg) no-repeat;
     background-position-x: center;
     height: 900px;
     }
-}
+}*/
 
 .logotipo {
     background-color: none;
@@ -80,7 +80,7 @@ h1 {
 }
 
 #icone {
-    width: 35px;
+    width: 30px;
     display: none;
 }
  
@@ -88,6 +88,7 @@ h1 {
     .barra-nav li a {
         width: auto;
         font-size: 10px;
+        padding: 8px 13px;
     }
 
     .barra-nav .txt {
@@ -98,6 +99,10 @@ h1 {
         width: 35px;
         display: block;
     }
+
+    input {
+        background-size: 380px;
+    }
 }
 
 
@@ -107,7 +112,6 @@ h1 {
   .barra-nav2 {
     padding-left: 30px;
     margin-bottom: 5px;
-    margin-top: 320px
 }
 
 .barra-nav2 ul {
@@ -123,7 +127,7 @@ h1 {
   .barra-nav2 li {
     padding-bottom: 5px;
   }
-
+ /*
   @media only screen and (min-width: 1100px){
     .barra-nav2 {
         position: fixed;
@@ -153,7 +157,7 @@ h1 {
     .barra-nav2 {
         margin-top: 230px;
     }
-}
+} */
   
   
 
@@ -172,6 +176,7 @@ h1 {
 .ficha-descriçao {
     margin-left: 10%;
     margin-right: 10%;
+    height: 200px;
 }
 
 .contato .contato1 li {
