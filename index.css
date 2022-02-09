@@ -80,7 +80,6 @@ h1 {
 }
 
 #icone {
-    width: 30px;
     display: none;
 }
  
@@ -96,7 +95,7 @@ h1 {
     }
 
     #icone {
-        width: 35px;
+        width: 30px;
         display: block;
     }
 
