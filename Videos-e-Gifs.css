@@ -26,6 +26,12 @@ input {
     vertical-align: middle; /* align the text vertically centered */
 }
 
+@media only screen and (max-width: 700px){
+    input {
+        background-size: 380px;
+    }
+}
+
 h1 {
     margin: 0;
 }
