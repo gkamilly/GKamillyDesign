@@ -48,7 +48,11 @@ h1 {
 .navbar .barra-nav {
     display: flex;
     justify-content: right;
-    margin-right: 10px;
+}
+
+.barra-nav ul {
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 .barra-nav ul li {
@@ -64,8 +68,8 @@ h1 {
     text-align: center;
     color: whitesmoke;
     width: 140px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     text-decoration: none;
   }
 
@@ -97,7 +101,7 @@ h1 {
     }
 
     #icone {
-        width: 25px;
+        width: 30px;
         display: block;
     }
 
