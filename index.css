@@ -122,11 +122,11 @@ h1 {
 .barra-nav2 ul {
     list-style: none;
     padding: 0;
+    color: whitesmoke;
 }
 
   .barra-nav2 li a {
-    text-decoration: none;
-    color: whitesmoke;
+    color: rgb(212, 179, 179);
   }
 
   .barra-nav2 li {
