@@ -47,8 +47,8 @@ h1 {
 
 .navbar .barra-nav {
     display: flex;
-    flex-flow: wrap;
     justify-content: right;
+    margin-right: 10px;
 }
 
 .barra-nav ul li {
@@ -64,7 +64,8 @@ h1 {
     text-align: center;
     color: whitesmoke;
     width: 140px;
-    padding: 8px 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-decoration: none;
   }
 
@@ -83,7 +84,8 @@ h1 {
     display: none;
 }
  
-@media only screen and (max-width: 875px){
+@media only screen and (max-width: 700px){
+
     .barra-nav li a {
         width: auto;
         font-size: 10px;
@@ -95,7 +97,7 @@ h1 {
     }
 
     #icone {
-        width: 30px;
+        width: 25px;
         display: block;
     }
 
