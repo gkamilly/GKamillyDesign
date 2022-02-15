@@ -179,8 +179,10 @@ h1 {
 }
 
 .ficha-descriçao {
-    margin-left: 10%;
-    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
     height: 200px;
 }
 
